@@ -1,5 +1,3 @@
-CREATE DATABASE amf;
-USE amf;
 CREATE TABLE amf_action (
 	action_id UUID NOT NULL,
 	action_name TEXT NOT NULL,
